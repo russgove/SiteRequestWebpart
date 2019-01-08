@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/siteRequest/SiteRequestWebPart.js",
+      "manifest": "./src/webparts/siteRequest/SiteRequestWebPart.manifest.json",
+      "outputPath": "./dist/site-request.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "siteRequestStrings": "webparts/siteRequest/loc/{locale}.js"
+  }
+}
